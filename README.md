@@ -1,1 +1,1 @@
-# nata-stub
+# Keep calm and stay BEMed!
